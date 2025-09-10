@@ -1,0 +1,19 @@
+# Binaries
+sprint12-final
+*.exe
+*.out
+
+# Dependency directories
+vendor/
+node_modules/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
